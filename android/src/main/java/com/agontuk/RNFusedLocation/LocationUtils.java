@@ -5,7 +5,7 @@ import android.content.pm.PackageManager;
 import android.location.Location;
 import android.Manifest;
 import android.os.Build;
-import android.support.v4.app.ActivityCompat;
+import androidx.core.app.ActivityCompat;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.WritableMap;
